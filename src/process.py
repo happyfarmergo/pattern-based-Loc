@@ -16,6 +16,9 @@ import copy
 
 import tools
 
+def retrive_next_window(df, grid, towers, edgemap, nodemap, start, w_size):
+    pass
+
 def retrive_per_window(df, grid, towers, edgemap, nodemap, start, w_size):
     grids, features, grid_pattern = [], [], []
     last_edge_id = -1
@@ -44,11 +47,12 @@ def retrive_per_window(df, grid, towers, edgemap, nodemap, start, w_size):
         for idx in range(1, 7 + 1):
             rncid, cellid, rssi = int(piece_data['RNCID_%d'%idx]), int(piece_data['CellID_%d'%idx]), int(piece_data['Dbm_%d'%idx])
             index_id = towers[(rncid, cellid)][0] if (rncid, cellid) in towers.keys() else -1
-            if index_id != -1:
-                lat, lng = towers[(rncid, cellid)][1], towers[(rncid, cellid)][2]
-            else:
-                lat, lng = 0, 0
-            piece_ids.append((index_id, lat, lng, rssi))
+            # if index_id != -1:
+            #     lat, lng = towers[(rncid, cellid)][1], towers[(rncid, cellid)][2]
+            # else:
+            #     lat, lng = 0, 0
+            # piece_ids.append((index_id, lat, lng, rssi))
+            piece_ids.append(index_id)
         features.append(piece_ids)
         last_edge_id = edge_id
     return features, grids, grid_pattern
@@ -199,7 +203,7 @@ def cellids2feature(cellids, towers, discard_idxs, version=0):
         if idx in discard_idxs:
             continue
         if version == 0:
-            features.append(list(chain.from_iterable(list(chain.from_iterable(cellid)))))
+            features.append((list(chain.from_iterable(cellid))))
         elif version == 1:
             feature = []
             for cid in chain.from_iterable(cellid):
@@ -212,15 +216,16 @@ def cellids2feature(cellids, towers, discard_idxs, version=0):
             features.append(feature)
         elif version == 2:
             feature = []
+            u_towers = [utm.from_latlon(lat, lng)[:2] for lat, lng in towers]
             for mr in cellid:
-                x0, y0 = towers[mr[0]]
+                x0, y0 = u_towers[mr[0]]
                 feature.append(x0)
                 feature.append(y0)
                 for i in range(1, len(mr)):
                     if mr[i] == -1:
                         lat, lng = 0, 0
                     else:
-                        lat, lng = towers[mr[i]]
+                        lat, lng = u_towers[mr[i]]
                         lat, lng = lat - x0, lng - y0
                     feature.append(lat)
                     feature.append(lng)
