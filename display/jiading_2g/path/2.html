@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple Map</title>
+<meta name="viewport" content="initial-scale=1.0">
+<meta charset="utf-8">
+<style>
+#map {
+height: 100%;
+}
+html, body {
+height: 100%;
+margin: 0;
+padding: 0;
+}
+</style>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+</head>
+<body>
+<div id="map"></div>
+<script>
+var map = L.map('map').setView([31.29179271, 121.21380459999999], 18);
+L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+maxZoom: 20,
+attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+id: 'mapbox.streets'
+}).addTo(map);
+
+L.circle([31.29179271, 121.21380459999999], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29179271, 121.21380459999999], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29225461, 121.21331459], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29220204, 121.21329335], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.292174499999998, 121.21328067], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29205444, 121.21324275], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29193794, 121.21317393], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29182043, 121.21310033], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29170251, 121.21303587], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29158648, 121.21298574], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29144962, 121.21294978], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29133572, 121.21290045], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29118753, 121.21281005], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29107552, 121.21274586], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.290962699999998, 121.21268395], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29088329, 121.21262631], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29077879, 121.21256833], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29061906, 121.21247045], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29050827, 121.21240436], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29037573, 121.21231816], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29023758, 121.21224884], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.29010042, 121.21222733], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.2899708, 121.21217312], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.289832399999998, 121.21208355], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28973494, 121.21198114], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28963195, 121.21188179], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28951073, 121.21182214], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28939275, 121.21179153], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28928065, 121.21184343], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28918827, 121.21186645], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28918103, 121.21189699], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.2891875, 121.21188782], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28919015, 121.21186613], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.2891951, 121.21186202], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+</script>
+</body>
+</html>

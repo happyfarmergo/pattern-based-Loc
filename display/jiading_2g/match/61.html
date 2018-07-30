@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple Map</title>
+<meta name="viewport" content="initial-scale=1.0">
+<meta charset="utf-8">
+<style>
+#map {
+height: 100%;
+}
+html, body {
+height: 100%;
+margin: 0;
+padding: 0;
+}
+</style>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+</head>
+<body>
+<div id="map"></div>
+<script>
+var map = L.map('map').setView([31.2851459047, 121.208768069], 18);
+L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+maxZoom: 20,
+attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+id: 'mapbox.streets'
+}).addTo(map);
+
+L.circle([31.2851459047, 121.208768069], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('0',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2851459047, 121.208768069], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('1',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2854817254, 121.208850202], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('2',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2854817254, 121.208850202], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('3',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2855836923, 121.208943499], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('4',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2856670076, 121.20901973], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('5',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2856670076, 121.20901973], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('6',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2857543012, 121.209099601], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('7',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2859272434, 121.209257838], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('8',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2860081516, 121.2093267], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('9',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2860761086, 121.209378145], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('10',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2861414483, 121.209427544], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('11',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2861997701, 121.209471638], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('12',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2863150416, 121.209558788], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('13',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2863875865, 121.209614611], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('14',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2864351385, 121.209651272], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('15',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2864351385, 121.209651272], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('16',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2865038421, 121.20970424], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('17',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2865038421, 121.20970424], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('18',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.286669618, 121.209832048], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('19',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.286669618, 121.209832048], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('20',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2868576869, 121.209977043], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('21',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2870119637, 121.210095985], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('22',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2871579933, 121.210208569], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('23',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2872543744, 121.210282876], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('24',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2873624449, 121.210445166], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('25',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2874071071, 121.210515604], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('26',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2875269412, 121.210585119], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('27',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2876598966, 121.210570911], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('28',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2876598966, 121.210570911], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('29',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2878355755, 121.210599619], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('30',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2878355755, 121.210599619], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('31',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2878355755, 121.210599619], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('32',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2878355755, 121.210599619], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('33',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2880553151, 121.210764179], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('34',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2880553151, 121.210764179], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('35',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.288231108, 121.210895798], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('36',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2883681138, 121.211312839], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('37',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2883655956, 121.211317046], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('38',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2883524467, 121.211339011], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('39',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2887424477, 121.211281738], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('40',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2888588926, 121.211370395], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('41',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2889705853, 121.211455434], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('42',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2890708694, 121.211531787], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('43',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2891577681, 121.211597948], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('44',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2892423841, 121.211662372], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('45',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2893195224, 121.211721102], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('46',{permanent:true, interactive:true}).openTooltip();
+L.circle([31.2893728149, 121.21176274], {
+color: 'red',
+radius: 2,
+}).addTo(map).bindTooltip('47',{permanent:true, interactive:true}).openTooltip();
+</script>
+</body>
+</html>

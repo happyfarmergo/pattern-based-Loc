@@ -14,3 +14,18 @@ def pairwise(iterable):
 def outside(x, y, bounding_box):
     x0, x1, y0, y1 = bounding_box
     return x < x0 or x > x1 or y < y0 or y > y1
+
+def bounding_box(coordinates):
+    xs, ys = [], []
+    for x, y in coordinates:
+        xs.append(x)
+        ys.append(y)
+    return min(xs), max(xs), min(ys), max(ys)
+
+def accuracy(labels, y_predict):
+    assert len(labels) == len(y_predict)
+    cnt = 0
+    for idx in range(len(labels)):
+        if labels[idx] == y_predict[idx]:
+            cnt += 1
+    return cnt * 1.0 / len(labels)

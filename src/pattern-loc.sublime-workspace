@@ -1,0 +1,1299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"new_pattern"
+			],
+			[
+				"edge",
+				"edge_id〔variable〕"
+			],
+			[
+				"utm",
+				"utm2cell"
+			],
+			[
+				"ed",
+				"edge_id〔variable〕"
+			],
+			[
+				"w",
+				"w_size"
+			],
+			[
+				"edg",
+				"edge_id〔variable〕"
+			],
+			[
+				"UT",
+				"UTF-8"
+			],
+			[
+				"patt",
+				"pattern〔variable〕"
+			],
+			[
+				"cell",
+				"cellids"
+			],
+			[
+				"col",
+				"color〔argument〕"
+			],
+			[
+				"UTM",
+				"UTM_Y"
+			],
+			[
+				"patter",
+				"pattern_set〔variable〕"
+			],
+			[
+				"local",
+				"local_dir〔variable〕"
+			],
+			[
+				"newpa",
+				"new_pattern〔variable〕"
+			],
+			[
+				"new_patt",
+				"new_patterns〔variable〕"
+			],
+			[
+				"patters",
+				"patterns〔argument〕"
+			],
+			[
+				"new_apt",
+				"new_patterns〔variable〕"
+			],
+			[
+				"newp",
+				"new_pattern〔variable〕"
+			],
+			[
+				"tot",
+				"total_pattern〔variable〕"
+			],
+			[
+				"stat",
+				"statistic〔variable〕"
+			],
+			[
+				"max",
+				"max〔function〕"
+			],
+			[
+				"grid",
+				"grid_pattern〔variable〕"
+			],
+			[
+				"retr",
+				"retrive_per_window〔function〕"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"pas",
+				"passed〔variable〕"
+			],
+			[
+				"match",
+				"match_res〔argument〕"
+			],
+			[
+				"make",
+				"make_road_graph_2〔function〕"
+			],
+			[
+				"makegra",
+				"make_road_graph_1〔function〕"
+			],
+			[
+				"inter",
+				"inter_rids〔variable〕"
+			],
+			[
+				"tower",
+				"tower〔argument〕"
+			],
+			[
+				"re",
+				"rec〔variable〕"
+			],
+			[
+				"gongca",
+				"gongcan_file〔argument〕"
+			],
+			[
+				"load",
+				"load_gongcan〔function〕"
+			],
+			[
+				"ind",
+				"index_3〔variable〕"
+			],
+			[
+				"inde",
+				"index_1〔variable〕"
+			],
+			[
+				"cid",
+				"cid_3〔variable〕"
+			],
+			[
+				"rid",
+				"rid_3〔variable〕"
+			],
+			[
+				"rss",
+				"rssi_3〔variable〕"
+			],
+			[
+				"index",
+				"index_3"
+			],
+			[
+				"wi",
+				"with_rssi"
+			],
+			[
+				"next",
+				"next_node〔variable〕"
+			],
+			[
+				"wei",
+				"weights〔argument〕"
+			],
+			[
+				"weig",
+				"weights〔variable〕"
+			],
+			[
+				"coor",
+				"coors〔variable〕"
+			],
+			[
+				"lin",
+				"line_length〔variable〕"
+			],
+			[
+				"slic",
+				"slice_map〔argument〕"
+			],
+			[
+				"range",
+				"ranges〔variable〕"
+			],
+			[
+				"tra",
+				"traj〔variable〕"
+			],
+			[
+				"trai",
+				"train"
+			],
+			[
+				"uni",
+				"uni_prec_dict"
+			],
+			[
+				"unipre",
+				"uni_prec"
+			],
+			[
+				"data",
+				"datatype"
+			],
+			[
+				"train",
+				"train_set"
+			],
+			[
+				"test",
+				"test_set"
+			],
+			[
+				"state",
+				"state_type"
+			],
+			[
+				"piece",
+				"piece_help〔variable〕"
+			],
+			[
+				"piec",
+				"piece_help〔variable〕"
+			],
+			[
+				"colo",
+				"color='k"
+			],
+			[
+				"line",
+				"linewidth=2"
+			],
+			[
+				"slice",
+				"slice_map〔variable〕"
+			],
+			[
+				"goncan",
+				"gongcan_file〔argument〕"
+			],
+			[
+				"gongcan",
+				"gongcan_file"
+			],
+			[
+				"he",
+				"help_dict〔variable〕"
+			],
+			[
+				"hel",
+				"help_list〔argument〕"
+			],
+			[
+				"get",
+				"get_cid"
+			],
+			[
+				"error",
+				"error_cnt〔variable〕"
+			],
+			[
+				"math",
+				"match_res〔argument〕"
+			],
+			[
+				"sta",
+				"state〔variable〕"
+			],
+			[
+				"traj",
+				"traj_"
+			],
+			[
+				"del",
+				"delta〔variable〕"
+			],
+			[
+				"st",
+				"states〔variable〕"
+			],
+			[
+				"stae",
+				"state_〔variable〕"
+			],
+			[
+				"cell2",
+				"cell2index〔function〕"
+			],
+			[
+				"fea",
+				"fea_next〔variable〕"
+			],
+			[
+				"defa",
+				"default_fea〔argument〕"
+			],
+			[
+				"has",
+				"has_not_match〔variable〕"
+			],
+			[
+				"tri",
+				"tr_id〔variable〕"
+			],
+			[
+				"pie",
+				"piece_match〔variable〕"
+			],
+			[
+				"matc",
+				"matched〔variable〕"
+			],
+			[
+				"gps",
+				"gps_pred〔variable〕"
+			],
+			[
+				"fil",
+				"filename〔variable〕"
+			],
+			[
+				"out",
+				"output_folder"
+			],
+			[
+				"las",
+				"last_idx〔variable〕"
+			],
+			[
+				"poin",
+				"point〔variable〕"
+			],
+			[
+				"const_cir",
+				"const_circle〔variable〕"
+			],
+			[
+				"id",
+				"id_1"
+			],
+			[
+				"point",
+				"point_gps〔variable〕"
+			],
+			[
+				"len",
+				"lengths"
+			],
+			[
+				"const",
+				"const_circle〔variable〕"
+			],
+			[
+				"const_circ",
+				"const_circle_pop〔variable〕"
+			],
+			[
+				"pat",
+				"path_time〔variable〕"
+			],
+			[
+				"ran",
+				"range〔function〕"
+			],
+			[
+				"rever",
+				"reversed〔class〕"
+			],
+			[
+				"ut",
+				"utm〔module〕"
+			],
+			[
+				"u",
+				"utm2index〔function〕"
+			],
+			[
+				"add",
+				"add_patch"
+			],
+			[
+				"co",
+				"color〔argument〕"
+			],
+			[
+				"l",
+				"Line2D〔class〕"
+			],
+			[
+				"draw",
+				"draw_cells〔function〕"
+			],
+			[
+				"preci",
+				"precision_〔variable〕"
+			],
+			[
+				"prec",
+				"precision_〔variable〕"
+			],
+			[
+				"ce",
+				"cell2box〔function〕"
+			],
+			[
+				"boud",
+				"bounding_box〔argument〕"
+			],
+			[
+				"cel",
+				"cells"
+			],
+			[
+				"cons",
+				"const_prefix〔variable〕"
+			],
+			[
+				"coo",
+				"coors〔variable〕"
+			],
+			[
+				"parti",
+				"particles〔argument〕"
+			],
+			[
+				"no",
+				"not_modified〔variable〕"
+			],
+			[
+				"prob",
+				"probs"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"part",
+				"particles"
+			],
+			[
+				"comp",
+				"comp_thres"
+			],
+			[
+				"init",
+				"init_rids"
+			],
+			[
+				"timest",
+				"timestp"
+			],
+			[
+				"tr",
+				"tr_id〔variable〕"
+			],
+			[
+				"candi",
+				"candies〔argument〕"
+			],
+			[
+				"last",
+				"last_rid〔variable〕"
+			],
+			[
+				"pa",
+				"path〔variable〕"
+			],
+			[
+				"city",
+				"city_edgeGeometry〔variable〕"
+			],
+			[
+				"seq",
+				"sequence〔variable〕"
+			],
+			[
+				"sequ",
+				"sequences〔argument〕"
+			],
+			[
+				"tow",
+				"towers〔argument〕"
+			],
+			[
+				"print",
+				"print〔function〕"
+			],
+			[
+				"lo",
+				"loads〔function〕"
+			],
+			[
+				"const_marker",
+				"const_marker_title"
+			],
+			[
+				"stro",
+				"strokeWeight"
+			],
+			[
+				"goog",
+				"google.maps.Marker"
+			],
+			[
+				"wg",
+				"wgs2gcj〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "load.py",
+			"settings":
+			{
+				"buffer_size": 8007,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "process.py",
+			"settings":
+			{
+				"buffer_size": 7209,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tools.py",
+			"settings":
+			{
+				"buffer_size": 783,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "display.py",
+			"settings":
+			{
+				"buffer_size": 3834,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/GoSublime/GoSublime.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"PACKA",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/src"
+	],
+	"file_history":
+	[
+		"/I/Kaggle/Titanic/titanic.ipynb",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/data/jiading_map/jiading_Nodes.txt",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/data/jiading_map/jiading_Edges.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/display_osm.py",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/data/jiading_map/jiading_EdgeGeometry.txt",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/data/jiading_map/WA_EdgeGeometry.txt",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/src/load.py",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/src/display.py",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/src/process.py",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/display/jiading_2g/path/0.html",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/src/plot.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/sacred_hmm.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/plot.py",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/data/jiading_2g/result/cnn.csv",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/data_cleaning/load.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/data_cleaning/noise.py",
+		"/D/Programs/JetBrains/PycharmProjects/hw4/CLEAN/preprocessing.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_2g/matching_out/0.txt.HMM.G_gap=5_dist=50.txt",
+		"/D/Programs/JetBrains/PycharmProjects/pratice/Pratice/pratice.py",
+		"/D/Programs/JetBrains/PycharmProjects/pratice/CLEAN/clean.py",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/src/pygrid.py",
+		"/I/map-matching/matching-core/src/test/resources/test1.gpx",
+		"/I/map-matching/graph-cache/edges",
+		"/I/map-matching/graph-cache/geometry",
+		"/C/Users/ljh18/AppData/Local/Hisuite/userdata/Image/CacheData/storage/emulated/0/tencent/QQfile_recv/文本(2017-04-20 095435).txt",
+		"/C/Users/ljh18/AppData/Local/Hisuite/userdata/Image/CacheData/storage/emulated/0/tencent/QQfile_recv/文本(2017-04-20 000917).txt",
+		"/C/Users/ljh18/AppData/Local/Hisuite/userdata/Image/CacheData/storage/emulated/0/tencent/QQfile_recv/test.txt",
+		"/H/ChromeDownload/《龙魂侠影》（无减1-25集5回%2B番外1-17篇）作者：六道惊魂.TXT",
+		"/C/Users/ljh18/AppData/Local/Temp/HZ$D.157.4291/HZ$D.157.4292/玄媚剑/蛾眉剑（未删节完整版）.txt",
+		"/H/ChromeDownload/玄媚剑.txt",
+		"/C/Users/ljh18/AppData/Roaming/Tencent/WeChat/WeChat Files/xiajia2325439116/Files/seminar/index.html",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_2g/trajs/0.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_2g/raw/0.txt",
+		"/C/Users/ljh18/AppData/Roaming/Tencent/WeChat/WeChat Files/xiajia2325439116/Files/Archive/main.py",
+		"/C/Users/ljh18/AppData/Roaming/Tencent/WeChat/WeChat Files/xiajia2325439116/Files/Archive/experiments.py",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/src/tools.py",
+		"/C/Users/ljh18/Desktop/problem.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/pygrid.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/tools.py",
+		"/D/Programs/JetBrains/PycharmProjects/pattern-based-Loc/.gitignore",
+		"/I/Data/shdata4coop/TRAFF_20140315/00/TRAFF_20140315000001.txt",
+		"/I/Data/实验数据500车/线路表.txt",
+		"/I/Data/实验数据500车/线路站点关系.txt",
+		"/I/Data/实验数据500车/IC刷卡表",
+		"/I/Data/实验数据500车/实验的500辆车car_no",
+		"/I/Data/实验数据500车/GPS表.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/display/jiading_2g/path/36.html",
+		"/C/Users/ljh18/AppData/Roaming/Tencent/WeChat/WeChat Files/xiajia2325439116/Files/siping_2g_0619_1_1001_1806192023_1806192041.txt",
+		"/C/Users/ljh18/AppData/Roaming/Tencent/WeChat/WeChat Files/xiajia2325439116/Files/siping_2g_0620_853_1806201231_1806201426.txt",
+		"/I/Notes/DiVA.md",
+		"/I/Notes/Dejavu.md",
+		"/I/Notes/UrbanSensing.md",
+		"/I/Notes/UrbanEye.md",
+		"/I/Notes/CLSTERS.md",
+		"/C/uninstall.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/uni_hmm.py",
+		"/C/Users/ljh18/Desktop/word.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/celltower.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_map/jiading_EdgeGeometry.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/导出数据格式说明.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/pp.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/cmps/pp.py",
+		"/C/HaxLogs.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_map/jiading_Edges.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/cmps/sacred_sense.py",
+		"/H/ChromeDownload/CNKI-636638873299040000.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/display/jiading_2g/raw/16.html",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/display/jiading_2g/raw/6.html",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_2g/raw/15.txt",
+		"/H/ChromeDownload/回复：论文/06-conclusion.tex",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_map/jiading_Nodes.txt",
+		"/H/ChromeDownload/edgegeometry.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/cmps/CellSense.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/regresser.py",
+		"/C/Users/ljh18/AppData/Roaming/Tencent/WeChat/WeChat Files/xiajia2325439116/Files/CellSense.py",
+		"/C/Users/ljh18/AppData/Roaming/Tencent/WeChat/WeChat Files/xiajia2325439116/Files/n-Copy1.py",
+		"/D/Programs/JetBrains/PycharmProjects/RoadInference/Src/bootstrap.py",
+		"/C/Users/ljh18/AppData/Roaming/Tencent/WeChat/WeChat Files/xiajia2325439116/Files/utils.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/sacred_sense.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/display/jiading_2g/path/0.html",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_2g/raw/7.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_2g/raw/1.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_4g/raw/0.txt",
+		"/D/Programs/JetBrains/PycharmProjects/RoadInference/Log/logging.conf",
+		"/C/Users/ljh18/AppData/Local/Temp/HZ$D.345.1502/HZ$D.345.1503/Toolkit/localization/algorithms/HMM.py",
+		"/C/Users/ljh18/AppData/Local/Temp/HZ$D.345.1502/HZ$D.345.1504/Toolkit/localization/algorithms/LocalizeUEpf.py",
+		"/C/Users/ljh18/AppData/Local/Temp/HZ$D.345.1502/HZ$D.345.1505/Toolkit/localization/algorithms/ParticleFilter.py",
+		"/D/Programs/JetBrains/PycharmProjects/RoadInference/Src/online_infer.py",
+		"/D/Programs/JetBrains/PycharmProjects/nTrainMap/src/trajmap.py",
+		"/D/Programs/JetBrains/PycharmProjects/nTrainMap/src/display.py",
+		"/D/Programs/JetBrains/PycharmProjects/RoadInference/Src/computer.py",
+		"/D/Programs/JetBrains/PycharmProjects/RoadInference/Src/const.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/hmm.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/split.py",
+		"/H/ChromeDownload/llncs2e/readme.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/src/grid.py",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/siping_map/Siping_Edges.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/siping_map/Siping_Nodes.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/siping_map/Siping_EdgeGeometry.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/uploads/0.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/display/siping_map_.html",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/uploads/11.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/uploads/5.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/uploads/14.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/uploads/30.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/uploads/28.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/uploads/27.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/uploads/25.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/uploads/21.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/uploads/2.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/uploads/1.txt",
+		"/C/Users/ljh18/AppData/Local/Temp/HZ$D.718.4624/HZ$D.718.4625/siping/15.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/display/siping_map.html",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_2g/trajs/1.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_4g/trajs/38.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_4g/trajs/43.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading_4g/trajs/16.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/display/jiading_2g/gps.html",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading/trajs4/37.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading/trajs4/44.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading/导出数据格式说明.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading/trajs4/0.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading/trajs4/3.txt",
+		"/C/Users/ljh18/Pictures/me.html",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading/trajs4/43.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading/trajs4/26.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading/trajs4/10.txt",
+		"/D/Programs/JetBrains/PycharmProjects/seqIDLoc/data/jiading/trajs4/1.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			"<open folders>,D:\\Programs\\JetBrains\\PycharmProjects\\Data\\MR Data\\map_matching\\HMMM",
+			"<open folders>",
+			"",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1666^",
+			"footway",
+			"pedes",
+			"2924086",
+			" ",
+			".openTooltip()",
+			"permanent:true, interactive:true",
+			".openTooltip()",
+			"red",
+			"self.",
+			".openTooltip()",
+			"{permanent:true, interactive:true}",
+			".openTooltip()",
+			"{permanent:true, interactive:true})",
+			"{permanent:true, interactive:true}",
+			".openTooltip()",
+			"135421965",
+			"sag",
+			"Point missing",
+			"search_winners",
+			"_reconstruct_path",
+			"gongcan.iloc[i]",
+			"df.iloc[i]",
+			"stored_font_dicts",
+			"import_fonts",
+			"stored_font_dicts",
+			"'2'",
+			"rid",
+			"    \n",
+			"LineString",
+			"wayType",
+			"wayName",
+			"strokeWeight: 1",
+			"strokeWeight: 2",
+			"db_sh",
+			"base_size=200",
+			"base_size=100",
+			"Courier New",
+			"Monaco",
+			"Index_NearestNeighbors_id",
+			"nearest",
+			"intersection",
+			"c.",
+			"c.Notebook",
+			"1,44",
+			"1,",
+			"import",
+			"home/ubuntu",
+			"_plsa",
+			"plsa",
+			"------",
+			"failed",
+			"Account Error",
+			"Depth",
+			"data-res-id=\"473571905\"",
+			"嫁不出去",
+			"Depth",
+			"textarea style=\"display:none;",
+			"more s-fc3",
+			"playlist-track-count",
+			"album-desc-more",
+			"data-res-id=\"814298370\"",
+			"a data-res-action=\"addto\"",
+			"span class=\"time s-fc4\"",
+			"span class=\"name\"",
+			"华纳",
+			"id=\"m-pl-container\"",
+			"ul class=\"m-cvrlst f-cb\" id=\"m-pl-container\"",
+			"<a class=\"tit f-thide s-fc0\"",
+			"strokeWeight: 3",
+			"0x",
+			"img",
+			"package",
+			"!",
+			"。",
+			"http://happyfarmer-oray.vicp.io:8082",
+			"sel_topic_cands",
+			"connect_cands",
+			"sys",
+			"os.",
+			"os",
+			"iteration",
+			"matrix",
+			"def m",
+			"]",
+			"Colors.green",
+			"Airpl",
+			"blue",
+			"Colors.blue",
+			"512",
+			"Airp",
+			"Sea =",
+			"Sea\n",
+			"Sea=\n",
+			"Sea =\n",
+			");\n",
+			"this.state.danm",
+			"controls",
+			"<div class=\"movie-detail movie-detail-strong movie-sale\">\n  \n</div>",
+			"<img class=\"poster-default\" src=\"//ms0.meituan.net/mywww/image/loading_2.e3d934bf.png\">",
+			"购 票",
+			"630px",
+			" 1",
+			"2",
+			"0",
+			"2",
+			" 1",
+			"1",
+			"2",
+			"。",
+			"，",
+			"blue",
+			" ",
+			"Query_Nums",
+			"Hash_Ratio",
+			"Const_Y",
+			"Const_X",
+			"Origin_Y",
+			"Origin_X",
+			";",
+			"jackson",
+			"post.excerpt",
+			"post.content",
+			"202518",
+			"891,",
+			"error",
+			"query",
+			"轨迹"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			"",
+			"permanent:false, interactive:false",
+			"",
+			"{permanent:false, interactive:false}",
+			"",
+			"{permanent:false, interactive:false}",
+			"",
+			"self",
+			"piece_data",
+			"2",
+			"cid",
+			"strokeWeight: 2",
+			"strokeWeight: 1",
+			"Ahmed_shs",
+			"oTMap_shl",
+			"oTMap_shs",
+			"Monaco",
+			"Courier New",
+			"root",
+			"strokeWeight: 2",
+			"#",
+			"！\\\\",
+			"。\\\\",
+			"http://localhost:8082",
+			"Colors.red",
+			"",
+			"喜欢",
+			"</p><p>",
+			"",
+			"arr_query_lines",
+			"arr_hash_size",
+			"const_y",
+			"const_x",
+			"origin_y",
+			"origin_x",
+			"",
+			"localhost",
+			"",
+			"aliens_abduction"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\Programs\\JetBrains\\PycharmProjects\\pattern-based-Loc\\src"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "load.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5919,
+								5919
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3672.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "process.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6383,
+								6383
+							]
+						],
+						"settings":
+						{
+							"SL.54.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3888.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tools.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								782,
+								782
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "display.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2877,
+								2877
+							]
+						],
+						"settings":
+						{
+							"SL.38.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 174.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://D:\\Programs\\Go\\workspace\\src":
+	{
+		"height": 146.0
+	},
+	"output.9o://D:\\Programs\\Go\\workspace\\src\\hhh":
+	{
+		"height": 146.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 146.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 146.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 146.0
+	},
+	"output.exec":
+	{
+		"height": 251.0
+	},
+	"output.find_results":
+	{
+		"height": 158.0
+	},
+	"output.latextools":
+	{
+		"height": 146.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

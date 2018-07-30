@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple Map</title>
+<meta name="viewport" content="initial-scale=1.0">
+<meta charset="utf-8">
+<style>
+#map {
+height: 100%;
+}
+html, body {
+height: 100%;
+margin: 0;
+padding: 0;
+}
+</style>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+</head>
+<body>
+<div id="map"></div>
+<script>
+var map = L.map('map').setView([31.28440855, 121.20997657], 18);
+L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+maxZoom: 20,
+attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+id: 'mapbox.streets'
+}).addTo(map);
+
+L.circle([31.28440855, 121.20997657], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28440855, 121.20997657], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28440855, 121.20997657], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28461732, 121.20993691], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28455069, 121.20996719], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28448854, 121.21001054], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28442177, 121.21012182], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28461964, 121.21017658], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28461964, 121.21017658], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28480779, 121.21019677], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28480779, 121.21019677], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28508054, 121.21016254], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28508054, 121.21016254], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28535351, 121.2101135], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28535351, 121.2101135], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28553934, 121.20992233], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28562277, 121.20983151], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28580752, 121.20966215], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28585036, 121.2095472], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28585036, 121.2095472], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.2860408, 121.20945931], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28614427, 121.20949194], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28621688, 121.20945454], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28635599, 121.20979706], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28641815, 121.20961036], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28654342, 121.20976494], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28654342, 121.20976494], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28670037, 121.20983714], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28700789, 121.21008504], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28709952, 121.21018514], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28712786, 121.21020935], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28733216, 121.21040505], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28754265, 121.21053715], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28766046, 121.21048798], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28760378, 121.21046992], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28766582, 121.21036121], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28766582, 121.21036121], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28807574, 121.21064594], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28807574, 121.21064594], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.2880146, 121.21064305], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.288539299999997, 121.21108573], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28843094, 121.21096022], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28846745, 121.21104282], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28846745, 121.21104282], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28851357, 121.21098504], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28873873, 121.21118024], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28890725, 121.21133886], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28898234, 121.21136896], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.289124600000005, 121.21161196], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.289312699999996, 121.21174851], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28928182, 121.21172862], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+L.circle([31.28933933, 121.21178765], {
+color: 'red',
+radius: 2,
+}).addTo(map);
+</script>
+</body>
+</html>

@@ -1,0 +1,2 @@
+class ALGORITHM:
+    name = 'ST'

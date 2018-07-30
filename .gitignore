@@ -1,1 +1,5 @@
 /.ipynb_checkpoints
+/MNIST_data
+/map_matching/*.log
+/map_matching/.ipynb_checkpoints
+*.png
